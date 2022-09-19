@@ -1,0 +1,20 @@
+Hello!
+
+     Here you will find 3 releveant articles. 2 repositories containing coding projects and my resume.
+
+1) A PDF of my Resume (pretty straight-forward)
+
+2) POS system: This is a "work in progress" project I started about a week ago. It is important to note that while this is demonstative of my work,
+that this is not a final product and does not accurately demonstrate what a final program from me will look like. To run presently as is, you can run
+the program in the repository named "main" or run the program via opening files "main.cpp", "POS.cpp", and "POS.hpp" in any IDE 
+(VS Code recommended) and building it manually that way. 
+
+3) Data_Structures_ASMT_1 City Record Manager: This was a class project for data structures. This porject's aim was to have us make a city
+record management system using both an application of an array and an application of linked list to reliably see the difference in performance 
+between the two and the data structurs' individual strengths and weaknesses. I include this in my submission because my POS system program is 
+still incomplete, hence, it does not accurately display a final product produced by myself. This program, however, does demonstrate what a final 
+product produced my me looks like. Again, to run this program, you can either run the "main" in the ASMT_1 repository, or load "main.cpp",
+"Assmt_1.cpp", and "Assmt_1.hpp" in an IDE and builing it manually.
+
+NOTE* both POS and ASMT_1 have self explainitory function within them, using the console to input commands, SO no further explination is needed
+in their usage.  
