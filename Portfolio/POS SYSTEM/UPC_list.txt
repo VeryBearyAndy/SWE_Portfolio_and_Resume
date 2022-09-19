@@ -1,0 +1,17 @@
+Shmoke_a_cola, 1.99, 123456789012, 212
+Billy's_peppered_jerky, 5.99, 234567890123, 92
+Jill's_sanwiches, 3.99, 345678901234, 32
+Chris's_boulder_punch_surprize, 9.99, 456789012345, 76
+Leon's_presidential_rescue, 12.99, 567890123456, 52
+Rebecca's_mixed_herb_scrub, 20.99, 678901234567, 32
+Clair's_made_in_heaven_eclaires, 16.57, 789012345678, 42
+Ada's_spy_glass, 18.99, 890123456789, 21
+Barry's_bear_rub, 18.99, 901234567890, 31
+Wesker's_fashionable_eye_wear, 900.00, 210987654321, 3
+Sheva's_shea_butter, 24.99, 321098765432, 67
+Sheri's_G_vaccine, 34.99, 432109876543, 27
+William's_monster_drink, 900.00, 543210987654, 1
+Kendo's_shotgun_snappers, 34.99, 654321098765, 72
+Carlos's_hair_spray, 22.99, 765432109876, 43
+Racoon_plush, 18.99, 876543210987, 14
+Nemmy's_calimari_surprize, 33.50, 987654321098
